@@ -1,3 +1,16 @@
 h1 {
     text-align: center;
+    color: rgb(185, 102, 102);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+h3 {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
 }
