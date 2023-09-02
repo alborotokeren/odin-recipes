@@ -1,18 +1,21 @@
 body {
-    background-color: burlywood;
-}
+    background-image: url(https://i.pinimg.com/564x/ae/c1/fc/aec1fc06d16b461c7974e7a46b38dd08.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}   
 
 
 h1 {
     text-align: center;
-    color: brown;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
 }
 
 h3 {
     text-align: center;
-    color: brown;
+    color: black;
     font-size: 30px;
 }
 
@@ -37,4 +40,14 @@ li {
     align-items: center;
     justify-content: center;
     margin: 5px;
+}
+
+.menu {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.font {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
